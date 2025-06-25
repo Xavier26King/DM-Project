@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Rock Paper Scissors Strategy Guide
 
 Welcome to the ultimate Rock Paper Scissors (RPS) strategy guide. While RPS is often seen as a game of pure chance, there are proven psychological and mathematical strategies that can dramatically increase your odds of winning. This guide distills expert advice, tournament insights, and tactical tips into a practical, step-by-step playbook.
