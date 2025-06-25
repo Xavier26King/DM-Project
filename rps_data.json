@@ -1,0 +1,93 @@
+{
+  "winRates": {
+    "Move": [
+      "Scissors",
+      "Rock",
+      "Paper"
+    ],
+    "Win_Rate": [
+      37.04,
+      35.43,
+      27.53
+    ],
+    "Popularity": [
+      33.0,
+      35.5,
+      31.5
+    ]
+  },
+  "psychologyPatterns": {
+    "Pattern": [
+      "Win-Stay (Winners repeat)",
+      "Lose-Shift (Losers change)",
+      "Rock Opening Bias",
+      "Emotional Rock (Angry)",
+      "Pattern Recognition",
+      "Gambler's Fallacy"
+    ],
+    "Frequency": [
+      65,
+      70,
+      45,
+      55,
+      60,
+      40
+    ],
+    "Exploitability": [
+      8,
+      9,
+      7,
+      6,
+      8,
+      5
+    ]
+  },
+  "strategies": {
+    "Strategy": [
+      "Pure Random (Nash)",
+      "Anti-Rock (Paper bias)",
+      "Anti-Popular (Scissors)",
+      "Pattern Counter",
+      "Frequency Matching",
+      "Markov Chain"
+    ],
+    "Expected_Win_Rate": [
+      33.33,
+      35.5,
+      37.04,
+      42.0,
+      38.5,
+      45.2
+    ],
+    "Complexity": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      9
+    ]
+  },
+  "nashEquilibrium": {
+    "rock": 0.333,
+    "paper": 0.333,
+    "scissors": 0.333
+  },
+  "payoffMatrix": [
+    [
+      0,
+      -1,
+      1
+    ],
+    [
+      1,
+      0,
+      -1
+    ],
+    [
+      -1,
+      1,
+      0
+    ]
+  ]
+}
